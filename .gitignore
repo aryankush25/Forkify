@@ -2,3 +2,5 @@
 
 # dependencies
 /node_modules
+/dist/js/bundle.js
+/dist/index.html
